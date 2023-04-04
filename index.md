@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Getting Started on Github!
+author: Triet D.
+description: My first Github page!
 ---
 
